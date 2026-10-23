@@ -20,11 +20,11 @@ Stack: opencode, MCP, SQLite, GitHub Actions.
 
 ### Aplika Jobs
 
-Plataforma Full-Stack de matching de ofertas con IA, desarrollada en equipo. Demo pública; código no público. Caso de estudio técnico en preparación.
+Plataforma Full-Stack de matching de ofertas con IA, desarrollada en equipo. Demo pública; código no público. Caso de estudio técnico público.
 
 Stack: React, Node.js, Express, TypeScript, Prisma, PostgreSQL, Supabase.
 
-[Demo de Aplika Jobs](https://aplika-jobs.vercel.app) · [LinkedIn de Aplika Jobs](https://linkedin.com/company/aplika-jobs)
+[Aplika Jobs — caso de estudio](https://github.com/edu84gp/aplika-jobs-case-study) · [Demo de Aplika Jobs](https://aplika-jobs.vercel.app) · [LinkedIn de Aplika Jobs](https://linkedin.com/company/aplika-jobs)
 
 ### Pokédex Web
 
