@@ -20,7 +20,9 @@ Stack: opencode, MCP, SQLite, GitHub Actions.
 
 ### Aplika Jobs
 
-Plataforma Full-Stack de matching de ofertas con IA, desarrollada en equipo. Demo pública; código no público. Caso de estudio técnico público.
+Plataforma Full-Stack de matching de ofertas con IA, desarrollada en equipo. Demo pública; código privado. Caso de estudio técnico público.
+
+Aportación personal: API REST con Express y TypeScript, persistencia con Prisma, PostgreSQL y Supabase, motor de búsqueda y orquestación de matching, y generación de CV ATS, carta y email.
 
 Stack: React, Node.js, Express, TypeScript, Prisma, PostgreSQL, Supabase.
 
